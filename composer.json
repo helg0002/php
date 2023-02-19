@@ -1,0 +1,19 @@
+{
+    "name": "helg/untitled14",
+    "autoload": {
+        "psr-4": {
+            "Helg\\Untitled14\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Олег",
+            "email": "oselasnikov@gmail.com"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.8",
+        "eftec/daoone": "^3.9",
+        "eftec/documentstoreone": "^1.24"
+    }
+}
